@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jasi!
 
-<!--
+
 "Full Stack Developer from Kyrgyzstan 🇰🇬 | I build modern and responsive web applications."
 
 ## Skills
@@ -34,4 +34,4 @@
 ![Jasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 
--->
+
