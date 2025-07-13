@@ -19,8 +19,7 @@
 - [My Portfolio](https://your-portfolio-link.com) - A personal website to showcase my skills and projects.
 - [Task Manager App](https://github.com/username/task-manager) - A React and Node.js app for managing daily tasks.
 
-## GitHub Stats
-![Jasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
 
 
 
